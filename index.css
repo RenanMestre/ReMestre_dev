@@ -170,12 +170,49 @@ section.topo-do-site .flex {
     margin: 40px 0;
 }
 
+
 .topo-do-site .img-topo-site img {
     position: relative;
     animation: flutuar 2s ease-in-out infinite alternate;
     filter: drop-shadow(0px 0px 15px rgb(0, 195, 255));
 }
 
+.especialidades .interface .flex .especialidades-box .especialidades-seguranca .certificados p{
+    color: white;
+    text-align: center;
+    margin: 5px;
+}
+
+.especialidades .interface .flex .especialidades-box .especialidades-seguranca i{
+    color: rgb(0, 26, 255);
+
+}
+
+.especialidades .interface .flex .especialidades-box .certificados p{
+    color: white;
+    text-align: center;
+    margin: 5px;
+}
+
+.especialidades .interface .flex .especialidades-box .especialidades-informatica i{
+    color: rgb(255, 0, 0);
+}
+
+.especialidades .interface .flex .especialidades-box .especialidades-seguranca .certificados  img{
+    height: 410px;
+    margin: 25px 50px 15px;
+    position: relative;
+    animation: flutuar 2s ease-in-out infinite alternate;
+    filter: drop-shadow(0px 0px 15px rgb(5, 71, 252));
+}
+
+.especialidades .interface .flex .especialidades-box .certificados  img{
+    height: 410px;
+    margin: 25px 50px 15px;
+    position: relative;
+    animation: flutuar 2s ease-in-out infinite alternate;
+    filter: drop-shadow(0px 0px 15px rgb(252, 5, 5));
+}
 
 @keyframes flutuar {
     0% {
@@ -209,9 +246,29 @@ section.especialidades .flex {
     box-shadow: 0 0 20px rgba(255, 255, 255, 0.253);
 }
 
+.especialidades .especialidades-seguranca i {
+    font-size: 70px;
+    color: rgb(47, 0, 255);
+}
+
+.especialidades .especialidades-informatica i {
+    font-size: 70px;
+    color: rgb(57, 63, 63);
+}
+
+.especialidades .especialidades-eletro i {
+    font-size: 70px;
+    color: rgb(208, 255, 0);
+}
+
 .especialidades .especialidades-box i {
     font-size: 70px;
     color: rgb(0, 255, 255);
+}
+
+.especialidades .especialidades-box h3 {
+    font-size: 28px;
+    margin: 15px 0;
 }
 
 .especialidades .especialidades-box h3 {
