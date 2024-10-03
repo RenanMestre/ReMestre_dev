@@ -22,8 +22,7 @@ body {
 }
 
 .interface .logo img{
-    height: 110px;
-    margin: 0px 450px;
+    margin: 1100px;
     justify-content: space-between;
     align-items: center;
     display: flex;
@@ -488,8 +487,9 @@ footer .line-footer p a {
     }
 
     .interface .logo img {
-        width: auto;
-        height: auto;
+        align-items: center;
+        justify-content: center;
+        margin: 1500px;
     }
 
     section.especialidades {
@@ -537,8 +537,8 @@ footer .line-footer p a {
     }
 
     .interface .logo img{
-        height: 85px;
-        margin: 0px 50px;
+        height: 95px;
+        margin: 0 0 0 15%;
     }
 
     .especialidades .interface .flex .especialidades-box .especialidades-seguranca .certificados  img{
