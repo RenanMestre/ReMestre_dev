@@ -321,6 +321,8 @@ section.sobre {
 
 .sobre .txt-sobre p {
     text-align: justify;
+    align-items: center;
+    justify-content: center;
 }
 
 .sobre .txt-sobre .formacoes button {
@@ -546,6 +548,13 @@ footer .line-footer p a {
         width: 75%;
         margin: 25px 25px 15px;
         align-items: center;
+    }
+    
+    .sobre .txt-sobre p {
+        text-align: justify;
+        justify-content: center;
+        align-items: center;
+        margin: 0 80px;
     }
 
 }
