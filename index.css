@@ -323,6 +323,19 @@ section.sobre {
     text-align: justify;
 }
 
+.sobre .txt-sobre .formacoes button {
+    padding: 15px 15px;
+    margin: 5px 250px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: rgb(12, 206, 60);
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .2s;
+    color: white;
+}
+
 .btn-social button {
     width: 60px;
     height: 60px;
