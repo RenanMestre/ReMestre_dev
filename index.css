@@ -485,6 +485,7 @@ footer .line-footer p a {
 
     .topo-do-site .img-topo-site img {
         width: 100%;
+        height: 100%;
     }
 
     section.especialidades {
@@ -538,16 +539,12 @@ footer .line-footer p a {
 
     .especialidades .interface .flex .especialidades-box .especialidades-seguranca .certificados  img{
         height: 250%;
-        width: 75%;
         margin: 25px 25px 15px;
-        align-items: center;
     }
     
     .especialidades .interface .flex .especialidades-box .certificados  img{
         height: 250%;
         width: 75%;
         margin: 25px 25px 15px;
-        align-items: center;
     }
-
 }
