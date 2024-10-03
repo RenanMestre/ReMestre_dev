@@ -327,7 +327,7 @@ section.sobre {
 
 .sobre .txt-sobre .formacoes button {
     padding: 15px 15px;
-    margin: 5px 250px;
+    margin: 5px;
     font-size: 18px;
     font-weight: 600;
     background-color: rgb(12, 206, 60);
@@ -548,10 +548,6 @@ footer .line-footer p a {
         width: 75%;
         margin: 25px 25px 15px;
         align-items: center;
-    }
-    
-    .sobre .txt-sobre p {
-        margin: 0 100px;
     }
 
 }
