@@ -199,7 +199,8 @@ section.topo-do-site .flex {
 }
 
 .especialidades .interface .flex .especialidades-box .especialidades-seguranca .certificados  img{
-    height: 410px;
+    height: 100%;
+    width: 100%;
     margin: 25px 50px 15px;
     position: relative;
     animation: flutuar 2s ease-in-out infinite alternate;
@@ -207,7 +208,8 @@ section.topo-do-site .flex {
 }
 
 .especialidades .interface .flex .especialidades-box .certificados  img{
-    height: 410px;
+    height: 100%;
+    width: 100%;
     margin: 25px 50px 15px;
     position: relative;
     animation: flutuar 2s ease-in-out infinite alternate;
